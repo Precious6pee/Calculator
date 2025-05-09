@@ -1,6 +1,6 @@
 # Web Calculator
 
-A responsive web-based calculator built with **JavaScript** advanced mathematical functions.
+A responsive web-based calculator built with **JavaScript** for mathematical functions.
 
 ## Features
 
